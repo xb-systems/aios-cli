@@ -1,4 +1,9 @@
-# ch02 - comparison and chained comparison
+"""
+ch02 - comparison examples:
+- comparison operators
+- chained comparison
+- None checks with `is`
+"""
 
 a = 10
 b = 20
